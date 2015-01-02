@@ -6,7 +6,7 @@ This session is a talk. There are two versions; one for technically minded peopl
 
 This will likely be the more commonly used version of this session. It will cover the basics of crawling, scraping, and extracting, and depending on the session length, will include coverage of the challenges
 
-![architecture diagram]()
+![architecture diagram](https://github.com/ContentMine/workshops/raw/master/sessions/Architecture/infrastruct_overview.png)
 
 ## Technical version
 
