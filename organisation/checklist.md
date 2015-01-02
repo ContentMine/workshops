@@ -4,7 +4,7 @@
 
 - [ ] Decide on date, venue, team, hashtag, duration
 - [ ] Define target audience
-- [ ] Determine technological capabilities (internet speed etc.Po)
+- [ ] Determine technological capabilities (internet speed etc.)
 - [ ] Send details to Steph so she can generate materials
 - [ ] Become familiar with the materials
 - [ ] Send pre-installation instructions email (~1 week before)
