@@ -4,7 +4,7 @@
 
 *If you are running a ContentMine workshop, please read through this document and use the resources in this repo.*
 
-Welcome to the ContentMine workshops repo! This repo is designed to support members of the content mine team in designing and implementing a ContentMine workshop or hack event. However the materials found here can also be used by anyone who is interested.
+Welcome to the ContentMine workshops repo! This repo is designed to support members of the ContentMine team in designing and implementing a ContentMine workshop or hack event. However the materials found here can also be used by anyone who is interested.
 
 ## Organisation of this repo
 
