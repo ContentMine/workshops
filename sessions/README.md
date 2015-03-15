@@ -2,10 +2,10 @@
 
 ## Talks
 
-- [ ] Introduction
-- [ ] Legal aspects of content mining
+- [x] Introduction
+- [x] Legal aspects of content mining
 - [ ] Responsible content mining
-- [ ] Content mine software and tools
+- [x] Content mine software and tools
 
 ## Demos
 
@@ -18,5 +18,5 @@
 
 ## Interactive sessions
 
-- [ ] legal true or false quiz
-- [ ] manual markup exercise
+- [x] legal true or false quiz
+- [x] manual markup exercise
