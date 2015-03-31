@@ -2,7 +2,7 @@
 
 # Scraping
 
-This directory contains materials for tutorials and demonstrations of the scraping pipeline, specifically using [quickscrape](https://github.com/ContentMine/quickscrape) and creating [new scrapers](https://github.com/ContentMine/journal-scrapers).
+This directory contains materials for tutorials and demonstrations of the scraping pipeline, specifically using [quickscrape](https://github.com/ContentMine/quickscrape) with the [existing scraper set](https://github.com/ContentMine/journal-scrapers/tree/master/scrapers) and creating [new scrapers](https://github.com/ContentMine/journal-scrapers) using the [scraperJSON standard](https://github.com/ContentMine/scraperJSON).
 
 ## Getting quickscrape
 
