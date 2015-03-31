@@ -6,7 +6,7 @@ This directory contains materials for tutorials and demonstrations of the scrapi
 
 ## Getting quickscrape
 
-If we have released a VM with this workshop, the software will already be downloaded there, and able to use immediately. In this case, you can skip ahead to Using quickscrape.
+If we have released a VM with this workshop, the software will already be downloaded there, and able to use immediately. In this case, you can skip ahead to the next section (using quickscrape).
 
 `quickscrape` is very easy to install. Simply:
 
