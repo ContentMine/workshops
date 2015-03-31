@@ -1,3 +1,5 @@
+![ContentMine logo](https://github.com/ContentMine/assets/blob/master/png/Content_mine(small).png)
+
 # Notes on software session
 
 - currently there are two versions of the software slides (long and short)
