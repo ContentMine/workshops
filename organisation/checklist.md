@@ -23,3 +23,4 @@
 
 - [ ] Send good photos to Steph
 - [ ] Send completed evaluation forms to Jenny
+- [ ] Add latest VM to [VM repo](https://github.com/ContentMine/workshops)
